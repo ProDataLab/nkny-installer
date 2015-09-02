@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+	<DisplayName>com.prodatalab.nkny</DisplayName>
+	<Description>Install nkny</Description>
+	<Version>1.0.0</Version>
+	<ReleaseDate>2015-09-02</ReleaseDate>
+	<Licenses>
+		<License name="" file="license.txt" />
+	</Licenses>
+	<Default>true</Default>
+	<Script></Script>
+	<UserInterfaces></UserInterfaces>
+</Package>
+

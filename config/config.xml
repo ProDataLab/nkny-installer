@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+	<Name>nkny</Name>
+	<Version>1.0.0</Version>
+	<Title>nkny Pairs Trading Platform</Title>
+	<Publisher>ProDataLab</Publisher>
+	<StartMenuDir>NknyPairsTradingPlatform</StartMenuDir>
+	<TargetDir>/@HomDir@/NknyPairsTradingPlatform</TargetDir>
+</Installer>
+
